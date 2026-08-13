@@ -1,0 +1,17 @@
+===== ONLINE VOTING SYSTEM =====
+Enter Voter ID: V101
+Enter Password: 1234
+
+Candidates:
+1. Alice
+2. Bob
+3. Charlie
+
+Select candidate number: 2
+
+Vote cast successfully!
+
+===== RESULTS =====
+Alice : 0 votes
+Bob : 1 votes
+Charlie : 0 votes

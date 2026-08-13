@@ -1,0 +1,20 @@
+Online-Voting-System-Java/
+│
+├── README.md
+├── LICENSE
+├── .gitignore
+├── screenshots/
+│   ├── login.png
+│   ├── voter_menu.png
+│   └── result.png
+├── data/
+│   ├── voters.txt
+│   └── votes.txt
+├── src/
+│   ├── Main.java
+│   ├── Voter.java
+│   ├── Candidate.java
+│   ├── VotingSystem.java
+│   └── FileManager.java
+└── output/
+    └── sample_output.txt
